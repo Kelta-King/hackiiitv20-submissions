@@ -1,0 +1,1 @@
+setInterval(refresh, 1000);
